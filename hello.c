@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+int myNumber = 42;
+int myArray[] = {0, 2, 3, 4,5};
+
 int main(void) {
-  printf("Hello, World!\n"):
+  printf("Welcome to data types!");
+  printf("Third value of myArray is %d. \n", myArray[2] 
 }
